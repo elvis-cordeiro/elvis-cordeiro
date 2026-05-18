@@ -1,85 +1,233 @@
+# 👋 Olá, eu sou Elvis Almeida  
+
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID" width="180" style="border-radius: 50%; border: 4px solid #00ff88;">
-  
-  <h1>👋 Olá, eu sou Elvis Almeida</h1>
-  
-  <h3>Desenvolvedor Full Stack | Node.js | React | TypeScript | Java</h3>
-  
-  <p>Construindo soluções completas com foco em sistemas robustos, integrações e dashboards analíticos.</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Dev+Full+Stack+%7C+Analista+de+Dados;Infraestrutura+%7C+Automações+%7C+IA;Apaixonado+por+Tecnologia+e+Inovação" />
+
 </div>
 
 ---
 
-### Sobre mim
-- 🎓 **Técnico em Tecnologia da Informação** (foco em Desenvolvimento e Banco de Dados) - Senac São Paulo
-- 💡 Apaixonado por Full Stack, integrações de APIs e soluções de dados
-- 🔍 Atualmente estudando **Java** com foco em Orientação a Objetos
-- 🎯 Objetivo: Desenvolvedor Full Stack / Backend / Analista de Dados
+## 🚀 Sobre mim
+
+💻 Técnico em T.I focado em Analise de Dados e Desenvolvimento Full Stack  
+📊 Foco em Banco de Dados, APIs, automações e análise de dados  
+🤖 Explorando Inteligência Artificial e soluções inteligentes  
+📚 Atualmente estudando arquitetura de software, backend e sistemas escaláveis  
+🎯 Objetivo: construir soluções reais que impactem pessoas e empresas  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<table>
+<tr>
 
-**Banco de Dados**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
+<b>Java</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>
+<b>C++</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="65"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="65"/><br>
+<b>TypeScript</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="65"/><br>
+<b>Express</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prisma" width="65"/><br>
+<b>Prisma ORM</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="65"/><br>
+<b>Supabase</b>
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-### 🔥 Projetos em Destaque
+# 📊 Estatísticas GitHub
 
-**📦 Sistema de Gestão e Estoque com Yampi (Dooki)**  
-Sistema Full Stack completo integrado com a plataforma Yampi.
+<div align="center">
 
-- Backend: Node.js + Express  
-- Frontend: React + TypeScript (Vite)  
-- Banco: PostgreSQL + Prisma ORM  
-- Sincronização automática via Cron Jobs  
-- Dashboard com Microsoft Clarity  
-- Cálculo automático de lucro e controle de estoque
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis-cordeiro&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Tecnologias:** `Node.js • React • TypeScript • PostgreSQL • Prisma • Yampi API`
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-cordeiro&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[Ver projeto →](https://github.com/SEU_USERNAME/nome-do-repo-yampi)
-
-*(Insira os outros projetos da mesma forma)*
+</div>
 
 ---
 
-### 📚 O que estou estudando agora
-- **Curso em Vídeo - Java** (Gustavo Guanabara)  
-  Foco atual: **Orientação a Objetos**, herança, polimorfismo, exceções e collections.
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=elvis-cordeiro&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+# 📌 Projetos em Destaque
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+## 🚀 Plataforma Full Stack de Métricas e Gestão
+
+> Sistema Full Stack desenvolvido para monitoramento de vendas, tráfego e comportamento do usuário em tempo real.
+
+### ✅ O que foi construído
+
+- Backend em Node.js + Express.js com arquitetura organizada
+- Frontend em React + TypeScript (Vite)
+- Banco de Dados PostgreSQL utilizando Prisma ORM
+- Integração completa com API da Yampi (Dooki)
+- Integração com Microsoft Clarity
+- Dashboard em tempo real
+- Cron Jobs para sincronização automática
+- Sistema multi-tenant preparado para escala
+- Controle de estoque e cálculo automático de lucro
+
+### 🧠 Tecnologias Utilizadas
+
+- Node.js
+- Express.js
+- React
+- TypeScript
+- PostgreSQL
+- Prisma ORM
+- Axios
+- node-cron
+- Microsoft Clarity API
+- Yampi API
+- Supabase
 
 ---
 
-### 📍 Status Atual
-- **Disponível** para estágio ou vagas Júnior  
-- Aprimorando o projeto com Yampi  
-- Estudando Java intensivamente
+## 🤖 Chatbot com Gemini API
+
+> Integração com IA generativa para respostas inteligentes em tempo real.
 
 ---
 
-### 📫 Contato
-- **LinkedIn**: [linkedin.com/in/elvis-almeida-cordeiro-7537213a0](https://www.linkedin.com/in/elvis-almeida-cordeiro-7537213a0)
-- **E-mail**: elvis-cordeiro@hotmail.com
-- **Localização**: Taboão da Serra - SP
+## 🎤 Reconhecimento de Voz e Análise de Frequência
+
+> Conversão de voz para texto utilizando Python e análise de frequência.
 
 ---
-*Aberto a oportunidades e colaborações! 🚀*
+
+## 💧 Bebedouro Inteligente IoT
+
+> Projeto utilizando Arduino, sensores e automação para evitar desperdício de água.
+
+---
+
+## 🗄️ Banco de Dados Cinema
+
+> Estruturação e normalização de banco de dados MySQL.
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=elvis-cordeiro&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/elvis-cordeiro">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Transformando ideias em soluções reais através da tecnologia.
+
+</div>
