@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID" width="150" style="border-radius: 50%;">
- 
+  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID" width="180" style="border-radius: 50%; border: 4px solid #00ff88;">
+  
   <h1>👋 Olá, eu sou Elvis Almeida</h1>
- 
+  
   <h3>Desenvolvedor Full Stack | Node.js | React | TypeScript | Java</h3>
- 
+  
   <p>Construindo soluções completas com foco em sistemas robustos, integrações e dashboards analíticos.</p>
 </div>
 
@@ -13,7 +13,7 @@
 ### Sobre mim
 - 🎓 **Técnico em Tecnologia da Informação** (foco em Desenvolvimento e Banco de Dados) - Senac São Paulo
 - 💡 Apaixonado por Full Stack, integrações de APIs e soluções de dados
-- 🔍 Atualmente estudando Java com foco em Orientação a Objetos
+- 🔍 Atualmente estudando **Java** com foco em Orientação a Objetos
 - 🎯 Objetivo: Desenvolvedor Full Stack / Backend / Analista de Dados
 
 ---
@@ -34,9 +34,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Outras**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 🔥 Projetos em Destaque
@@ -48,47 +45,34 @@ Sistema Full Stack completo integrado com a plataforma Yampi.
 - Frontend: React + TypeScript (Vite)  
 - Banco: PostgreSQL + Prisma ORM  
 - Sincronização automática via Cron Jobs  
-- Dashboard com Microsoft Clarity (métricas em tempo real)  
-- Cálculo automático de lucro e controle de estoque  
-- Multi-tenant básico
+- Dashboard com Microsoft Clarity  
+- Cálculo automático de lucro e controle de estoque
 
-**Tecnologias:** `Node.js • React • TypeScript • PostgreSQL • Prisma • Yampi API • Clarity`
+**Tecnologias:** `Node.js • React • TypeScript • PostgreSQL • Prisma • Yampi API`
 
-[Ver projeto →](link-do-repositorio)
+[Ver projeto →](https://github.com/SEU_USERNAME/nome-do-repo-yampi)
 
-**📊 Banco de Dados Cinema**  
-Modelagem, normalização e consultas avançadas.  
-`MySQL • Modelagem de Dados • SQL Avançado`
-
-**🤖 Chatbot com Gemini API**  
-Integração com IA generativa.  
-`Python • Gemini API`
-
-**💧 Bebedouro Inteligente**  
-Projeto IoT com sensores e automação.  
-`Arduino • IoT • Automação`
-
-**📚 Orientação a Objetos em Java**  
-Exercícios e projetos práticos do Curso em Vídeo.  
-`Java • POO • Gustavo Guanabara`
+*(Insira os outros projetos da mesma forma)*
 
 ---
 
 ### 📚 O que estou estudando agora
-- **Curso em Vídeo - Java** (Gustavo Guanabara) → Foco em **Orientação a Objetos**, herança, polimorfismo, exceções e collections.
+- **Curso em Vídeo - Java** (Gustavo Guanabara)  
+  Foco atual: **Orientação a Objetos**, herança, polimorfismo, exceções e collections.
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📍 Status Atual
-- **Disponível** para oportunidades de estágio ou vagas Júnior  
-- Trabalhando no aprimoramento do projeto com Yampi  
-- Estudando Java intensivamente (POO)
+- **Disponível** para estágio ou vagas Júnior  
+- Aprimorando o projeto com Yampi  
+- Estudando Java intensivamente
 
 ---
 
@@ -98,4 +82,4 @@ Exercícios e projetos práticos do Curso em Vídeo.
 - **Localização**: Taboão da Serra - SP
 
 ---
-*Aberto a colaborações e novas oportunidades!*
+*Aberto a oportunidades e colaborações! 🚀*
