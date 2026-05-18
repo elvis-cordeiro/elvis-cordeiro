@@ -1,102 +1,101 @@
-# 👋 Olá, eu sou Elvis Almeida  
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Transição+de+Carreira;Infraestrutura+%7C+Automação+%7C+IA;Apaixonado+por+Tecnologia+e+Inovação" />
-
+  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID" width="150" style="border-radius: 50%;">
+ 
+  <h1>👋 Olá, eu sou Elvis Almeida</h1>
+ 
+  <h3>Desenvolvedor Full Stack | Node.js | React | TypeScript | Java</h3>
+ 
+  <p>Construindo soluções completas com foco em sistemas robustos, integrações e dashboards analíticos.</p>
 </div>
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Técnico em T.I focado em Infraestrutura e Desenvolvimento  
-🤖 Explorando Inteligência Artificial e automações inteligentes  
-📚 Atualmente estudando lógica, banco de dados e desenvolvimento moderno  
-🎯 Objetivo: construir soluções reais que impactem pessoas e empresas  
-
----
-
-# 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,arduino,linux,html,css,js" />
-
-</div>
+### Sobre mim
+- 🎓 **Técnico em Tecnologia da Informação** (foco em Desenvolvimento e Banco de Dados) - Senac São Paulo
+- 💡 Apaixonado por Full Stack, integrações de APIs e soluções de dados
+- 🔍 Atualmente estudando Java com foco em Orientação a Objetos
+- 🎯 Objetivo: Desenvolvedor Full Stack / Backend / Analista de Dados
 
 ---
 
-# 📊 Estatísticas GitHub
+### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis-cordeiro&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-cordeiro&layout=compact&theme=tokyonight&hide_border=true"/>
+**Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=elvis-cordeiro&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📌 Projetos em Destaque
-
-### 🤖 Chatbot com Gemini API
-> Integração com IA generativa para respostas inteligentes em tempo real.
-
-### 🎤 Reconhecimento de Voz
-> Conversão de voz para texto utilizando Python e análise de frequência.
-
-### 💧 Bebedouro Inteligente
-> Projeto IoT com Arduino, sensores e automação para evitar desperdício.
-
-### 🗄️ Banco de Dados Cinema
-> Estruturação e normalização de banco MySQL.
+**Outras**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# 🏆 Conquistas
+### 🔥 Projetos em Destaque
 
-<div align="center">
+**📦 Sistema de Gestão e Estoque com Yampi (Dooki)**  
+Sistema Full Stack completo integrado com a plataforma Yampi.
 
-<img src="https://github-profile-trophy.vercel.app/?username=elvis-cordeiro&theme=tokyonight&no-frame=true&row=1&column=6"/>
+- Backend: Node.js + Express  
+- Frontend: React + TypeScript (Vite)  
+- Banco: PostgreSQL + Prisma ORM  
+- Sincronização automática via Cron Jobs  
+- Dashboard com Microsoft Clarity (métricas em tempo real)  
+- Cálculo automático de lucro e controle de estoque  
+- Multi-tenant básico
 
-</div>
+**Tecnologias:** `Node.js • React • TypeScript • PostgreSQL • Prisma • Yampi API • Clarity`
+
+[Ver projeto →](link-do-repositorio)
+
+**📊 Banco de Dados Cinema**  
+Modelagem, normalização e consultas avançadas.  
+`MySQL • Modelagem de Dados • SQL Avançado`
+
+**🤖 Chatbot com Gemini API**  
+Integração com IA generativa.  
+`Python • Gemini API`
+
+**💧 Bebedouro Inteligente**  
+Projeto IoT com sensores e automação.  
+`Arduino • IoT • Automação`
+
+**📚 Orientação a Objetos em Java**  
+Exercícios e projetos práticos do Curso em Vídeo.  
+`Java • POO • Gustavo Guanabara`
 
 ---
 
-# 🌐 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/elvis-cordeiro">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+### 📚 O que estou estudando agora
+- **Curso em Vídeo - Java** (Gustavo Guanabara) → Foco em **Orientação a Objetos**, herança, polimorfismo, exceções e collections.
 
 ---
 
-<div align="center">
+### 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-### ⚡ “Transformando ideias em soluções reais através da tecnologia.”
+---
 
-</div>
+### 📍 Status Atual
+- **Disponível** para oportunidades de estágio ou vagas Júnior  
+- Trabalhando no aprimoramento do projeto com Yampi  
+- Estudando Java intensivamente (POO)
+
+---
+
+### 📫 Contato
+- **LinkedIn**: [linkedin.com/in/elvis-almeida-cordeiro-7537213a0](https://www.linkedin.com/in/elvis-almeida-cordeiro-7537213a0)
+- **E-mail**: elvis-cordeiro@hotmail.com
+- **Localização**: Taboão da Serra - SP
+
+---
+*Aberto a colaborações e novas oportunidades!*
